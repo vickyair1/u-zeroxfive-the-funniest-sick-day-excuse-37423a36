@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*-bundle*.tar.gz
+kit.tar.gz
+kit/
+check-output.txt
